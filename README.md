@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and JavaScript, and I'd say it's really easy to get the two mixed up!
 - 💞️ I’m looking to collaborate on small projects that just need some quick checks, as I'm still not great
 - 📫 You can reach me on other coding websites(I'll list them down here later)
+- 👩🏻‍💻 I know the basics of HTML and CSS, and a tiny bit of Emojicode and Scratchblocks as a bit of fun.
 
 <!---
 helloworld-html/helloworld-html is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
